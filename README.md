@@ -40,7 +40,7 @@ Rule 2: Archive all messages to Amazon S3 as factory_data.json
 Run:
 python3 convert_json_to_csv.py
 
-📊 Step 4: Power BI Visualization
+✅ Step 4: Power BI Visualization
 Go to Power BI Web
 Click Create → Paste or Upload your data
 Upload factory_data.csv
