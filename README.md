@@ -32,7 +32,6 @@ python3 simulate_sensor.py
 Publishes MQTT data to topic:
 factory/FactorySensor1/data
 
-
 ✅ Step 2: AWS IoT Rules
 Rule 1: Store real-time data in DynamoDB → FactorySensorData
 Rule 2: Archive all messages to Amazon S3 as factory_data.json
