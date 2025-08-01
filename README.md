@@ -15,6 +15,18 @@ This project demonstrates a complete end-to-end **IoT monitoring system** using 
 
 ---
 
+## ✅ Skills Demonstrated
+
+- **IoT Development:** Simulated real-time sensor data using MQTT protocol and AWS IoT Core.
+- **Cloud Architecture:** Integrated cloud services (DynamoDB and S3) for scalable data storage.
+- **Automation with Python:** Automated data simulation and format conversion (JSON → CSV).
+- **Data Visualization:** Built a Power BI dashboard for real-time monitoring and analysis.
+- **End-to-End System Integration:** Connected edge-to-cloud pipeline from device to dashboard.
+- **Version Control:** Managed and documented code via GitHub.
+- **Smart Factory / DX Readiness:** Project mirrors real-world smart manufacturing use cases.
+
+---
+
 ## 📁 Project Structure
 
 ```bash
